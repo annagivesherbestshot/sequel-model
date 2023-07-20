@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add HUB-SDK Docs reference section (#7781)
