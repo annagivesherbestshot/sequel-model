@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Batch inference fixes (#8854)
